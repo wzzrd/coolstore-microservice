@@ -22,6 +22,10 @@ ul.rating {
 	display: inline-block;
 }
 
+ng.scope {
+	color: red;
+}
+
 .rating li {
 	list-style-type: none;
 	display: inline-block;
